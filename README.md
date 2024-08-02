@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AbleKSaju/AbleKSaju/name.svg" alt="Able K Saju" />
+  <img src="https://raw.githubusercontent.com/AbleKSaju/AbleKSaju/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Able K Saju" />
   <!-- <img src="name.svg" alt="Able K Saju" /> -->
 </h1>
 
@@ -61,7 +61,7 @@
 <div align="center" style="margin-top:20px;">
   <img width="40%" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura">
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&langs_count=8&theme=algolia"/> -->
-<img width="40%" height="243rem" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
+<img width="40%" height="200rem" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
 
 <hr
 
