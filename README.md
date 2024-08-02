@@ -59,13 +59,13 @@
 <h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:30px;">💻 Coding Activity</h3>
 
 <div align="center" style="margin-top:20px;">
-  <img width="40%" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura">
+<img width="37%" height="35%" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
+  <img width="50%" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura">
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&langs_count=8&theme=algolia"/> -->
-<img width="40%" height="220rem" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
 
 <hr
 
-<h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:50px;">📫 Reach me on</h3>
+<h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:50px; margin-bottom:50px;">📫 Reach me on</h3>
 <p align="center" style=" margin-top:30px;">
 <a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
 <a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
