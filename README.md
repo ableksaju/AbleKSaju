@@ -1,9 +1,15 @@
+<!-- Profile Header -->
 <h1 align="center">
   <img src="https://github.com/AbleKSaju/AbleKSaju/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Able K Saju" />
-  <!-- <img src="name.svg" alt="Able K Saju" /> -->
 </h1>
 
-<h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:30px;">👨‍💻 Whoami</h3>
+<!-- Section: Whoami -->
+<h3 align="center">
+  <svg width="200" height="30">
+    <text x="25" y="20" font-size="24" font-weight="bold" fill="white">👨‍💻 Whoami 👨‍💻</text>
+  </svg>
+</h3>
+
 <p align="center">
   <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
   </samp>
