@@ -73,7 +73,15 @@
 
 <hr
 
-<h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:50px; margin-bottom:50px;">📫 Reach me on</h3>
+<!-- Section: Reach Me On -->
+<h3 align="center">
+  <svg width="190" height="30">
+    <text y="20" font-size="24" font-weight="bold" fill="white">📫 Reach me on</text>
+  </svg>
+</h3>
+
+<br/>
+
 <p align="center" style=" margin-top:30px;">
 <a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
 <a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
