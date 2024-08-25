@@ -18,8 +18,13 @@
 </p>
 
 <hr>
-<h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:30px;">🛠  Technologies and tools</h3>
 
+<!-- Section: Technologies and Tools -->
+<h3 align="center">
+  <svg width="350" height="40">
+    <text x="25" y="30" font-size="24" font-weight="bold" fill="white">🛠 Technologies and tools</text>
+  </svg>
+</h3>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
