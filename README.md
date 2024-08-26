@@ -69,7 +69,14 @@
 
 <hr>
 
-<h3 align="center" style="font-weight: bold; font-size: 24px; margin-top:30px;">💻 Coding Activity</h3>
+<!-- Section: Coding Activity -->
+<div align="center">
+
+<h3 align="center">
+  <svg width="235" height="40">
+    <text x="10" y="30" font-size="24" font-weight="bold" fill="white">💻 Coding Activity</text>
+  </svg>
+</h3>
 
 <div align="center" style="margin-top:20px;">
   <img width="50%" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura">
