@@ -78,12 +78,17 @@
   </svg>
 </h3>
 
-<div align="center" style="margin-top:20px;">
-  <img width="50%" style=" outline: 2px dashed blue; margin-left:10px; padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura">
-<img width="37%" height="35%" style="outline: 2px dashed blue; margin-left: 10px; padding: 10px; border: 2px solid white;" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
-    <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&langs_count=8&theme=algolia"/> -->
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=ads-juicy-fresh">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&show_icons=true&theme=transparent">
 
-<hr
+<br/>
+
+<img height="20%" width="70%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
+
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura"> -->
+
+<hr/>
+<br/>
 
 <!-- Section: Reach Me On -->
 <h3 align="center">
