@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
+  <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
   </samp>
   <br> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ableksaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ableksaju3" /> </p>
@@ -85,7 +85,7 @@
 <br/>
 
 
-<img height="20%" width="70%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png">
+<!-- <img height="20%" width="70%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png"> -->
 
 <!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura"> -->
 
