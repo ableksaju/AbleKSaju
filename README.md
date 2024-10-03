@@ -79,7 +79,7 @@
 </h3>
 
 <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=ads-juicy-fresh">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&show_icons=true&theme=transparent">
+<img width="38%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&include_all_commits=true">
 
 <br/>
 <br/>
