@@ -22,7 +22,7 @@
 <!-- Section: Technologies and Tools -->
 <h3 align="center">
   <svg width="350" height="40">
-    <text x="25" y="30" font-size="24" font-weight="bold" fill="white">🛠 Technologies and tools</text>
+    <text x="25" y="30" font-size="24" font-weight="bold" fill="white">🛠 Technologies and tools </text>
   </svg>
 </h3>
 
