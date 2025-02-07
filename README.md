@@ -26,7 +26,6 @@
   </svg>
 </h3>
 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,17 +77,11 @@
   </svg>
 </h3>
 
-<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=ads-juicy-fresh">
+<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=radical">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&show_icons=true&theme=radical&include_all_commits=true">
 
 <br/>
 <br/>
-
-
-<!-- <img height="20%" width="70%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/c292b1a0-0bf5-4456-85c4-bc32fa2a34de.png"> -->
-
-<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbleKSaju&layout=compact&theme=aura"> -->
-
 <hr/>
 <br/>
 
@@ -101,9 +94,10 @@
 
 <br/>
 
-<p align="center" style=" margin-top:30px;">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
 <a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
 <a href="https://wa.me/+917356203811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ableksaju3" height="30" width="40" style="margin-left:20px;" /></a>
-</p>
 
+</p>
