@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
+  <samp>I am Able K Saju, a 19-year-old self-taught web developer proficient in the MERN stack and skilled in technologies such as JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages—from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
   </samp>
   <br> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ableksaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ableksaju3" /> </p>
