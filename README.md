@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <samp>I am Able K Saju, a 19-year-old self-taught web developer proficient in the MERN stack and skilled in technologies such as JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages—from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
+  <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
   </samp>
   <br> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ableksaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ableksaju3" /> </p>
@@ -81,23 +81,20 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&show_icons=true&theme=radical&include_all_commits=true">
 
 <br/>
-<br/>
 <hr/>
-<br/>
 
 <!-- Section: Reach Me On -->
 <h3 align="center">
-  <svg width="190" height="30">
-    <text y="20" font-size="24" font-weight="bold" fill="white">📫 Reach me on</text>
+   <svg width="235" height="40">
+    <text x="10" y="30" font-size="24" font-weight="bold" fill="white">📫 Reach me on</text>
   </svg>
 </h3>
 
-<br/>
-
 <p align="center">
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
-<a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
-<a href="https://wa.me/+917356203811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ableksaju3" height="30" width="40" style="margin-left:20px;" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:40px;" /></a>
 
 </p>
