@@ -1,29 +1,43 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://github.com/AbleKSaju/AbleKSaju/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Able K Saju" />
+   <img src="https://github.com/AbleKSaju/AbleKSaju/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Able K Saju" />
 </h1>
 
 <!-- Section: Whoami -->
 <h3 align="center">
-  <svg width="200" height="30">
-    <text x="25" y="20" font-size="24" font-weight="bold" fill="white">👨‍💻 Whoami 👨‍💻</text>
-  </svg>
+   <svg width="200" height="30">
+      <text x="25" y="20" font-size="24" font-weight="bold" fill="white">👨‍💻 Whoami 👨‍💻</text>
+   </svg>
 </h3>
 
 <p align="center">
-  <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
-  </samp>
-  <br> <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ableksaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ableksaju3" /> </p>
+   <samp>👋 Hi, I'm <strong>Able K Saju</strong> — a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. 🛠️ With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. 🚀 My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
+   </samp>
+   <br><br>
+
+<p align="center">
+   <span align="center">
+   💼 <strong>Developer at</strong>
+   <a href="https://wahni.io/about/contributions" target="_blank">Wahni IT Solutions</a>
+   </span>
+   &nbsp;&nbsp;&nbsp;
+   <span align="center">&nbsp;</span>
+   &nbsp;&nbsp;
+   <span align="center">
+   🛠 &nbsp;<strong>Maintainer of </strong >
+   <a href="https://github.com/frappe/books" target="_blank">&nbsp;Frappe Books</a>
+   &nbsp;
+   </span>
+</p>
 </p>
 
 <hr>
 
 <!-- Section: Technologies and Tools -->
 <h3 align="center">
-  <svg width="350" height="40">
-    <text x="25" y="30" font-size="24" font-weight="bold" fill="white">🛠 Technologies and tools </text>
-  </svg>
+   <svg width="350" height="40">
+      <text x="25" y="30" font-size="24" font-weight="bold" fill="white">🛠 Technologies and tools </text>
+   </svg>
 </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,9 +86,9 @@
 <div align="center">
 
 <h3 align="center">
-  <svg width="235" height="40">
-    <text x="10" y="30" font-size="24" font-weight="bold" fill="white">💻 Coding Activity</text>
-  </svg>
+   <svg width="235" height="40">
+      <text x="10" y="30" font-size="24" font-weight="bold" fill="white">💻 Coding Activity</text>
+   </svg>
 </h3>
 
 <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=radical">
@@ -86,15 +100,14 @@
 <!-- Section: Reach Me On -->
 <h3 align="center">
    <svg width="235" height="40">
-    <text x="10" y="30" font-size="24" font-weight="bold" fill="white">📫 Reach me on</text>
-  </svg>
+      <text x="10" y="30" font-size="24" font-weight="bold" fill="white">📫 Reach me on</text>
+   </svg>
 </h3>
 
 <p align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:40px;" /></a>
-
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:40px;" /></a>
 </p>
