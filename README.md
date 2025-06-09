@@ -11,10 +11,25 @@
 </h3>
 
 <p align="center">
-  <samp>I am Able K Saju, a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
+  <samp>👋 Hi, I'm <strong>Able K Saju</strong> — a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. 🛠️ With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. 🚀 My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
   </samp>
-  <br> <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ableksaju3&label=Profile%20views&color=0e75b6&style=flat" alt="ableksaju3" /> </p>
+  <br>
+
+<p align="center">
+    <span align="center" style="padding: 0 20px;">
+      💼 <strong>Developer at</strong>
+      <a href="https://wahni.io/about/contributions" target="_blank">Wahni IT Solutions</a>
+    </span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span align="center" style="padding: 0 20px; font-weight: bold; 
+    font-size: 20px;">•</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <span align="center" style="padding: 0 20px;">
+      🛠️ <strong>Maintainer of </strong>
+      <a href="https://github.com/frappe/books" target="_blank">Frappe Books</a>
+    </span>
+</p>
+
 </p>
 
 <hr>
