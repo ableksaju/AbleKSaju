@@ -85,7 +85,7 @@
 <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=radical">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&show_icons=true&theme=radical&include_all_commits=true">
 <br><br>
-<img width="82%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/f0d47d57-e420-4233-a734-4be210cf52f4.svg">
+<img width="82%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/58ee9cd4-1548-4636-9a5f-0e32fe9d735e.svg">
 <br/>
 <hr/>
 <!-- Section: Reach Me On -->
