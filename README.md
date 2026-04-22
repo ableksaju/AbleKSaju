@@ -2,19 +2,16 @@
 <h1 align="center">
    <img src="https://github.com/AbleKSaju/AbleKSaju/blob/3da6d3fcccf52ca54f0a86873f119dd4ea6ac392/name.svg" alt="Able K Saju" />
 </h1>
-
 <!-- Section: Whoami -->
 <h3 align="center">
    <svg width="200" height="30">
       <text x="25" y="20" font-size="24" font-weight="bold" fill="white">👨‍💻 Whoami 👨‍💻</text>
    </svg>
 </h3>
-
 <p align="center">
    <samp>👋 Hi, I'm <strong>Able K Saju</strong> — a self-taught web developer proficient in the MERN stack and skilled in technologies like JavaScript, React, Vue.js, TypeScript, and Python. 🛠️ With expertise in Microservices, Clean Architecture, and various integrations, I excel in all development stages from design to deployment. 🚀 My journey is driven by a passion for innovation and continuous learning, aiming to create outstanding websites and applications.
    </samp>
    <br><br>
-
 <p align="center">
    <span align="center">
    💼 <strong>Developer at</strong>
@@ -30,9 +27,7 @@
    </span>
 </p>
 </p>
-
 <hr>
-
 <!-- Section: Technologies and Tools -->
 <h3 align="center">
    <svg width="350" height="40">
@@ -79,35 +74,35 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 <hr>
-
 <!-- Section: Coding Activity -->
 <div align="center">
-
 <h3 align="center">
    <svg width="235" height="40">
       <text x="10" y="30" font-size="24" font-weight="bold" fill="white">💻 Coding Activity</text>
    </svg>
 </h3>
-
 <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbleKSaju&theme=radical">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AbleKSaju&show_icons=true&theme=radical&include_all_commits=true">
-
+<br><br>
+<img width="82%" src="https://wakatime.com/share/@16bb228f-cfa6-4c09-abdb-a1f8d0ff18a7/f0d47d57-e420-4233-a734-4be210cf52f4.svg">
 <br/>
 <hr/>
-
 <!-- Section: Reach Me On -->
 <h3 align="center">
-   <svg width="235" height="40">
-      <text x="10" y="30" font-size="24" font-weight="bold" fill="white">📫 Reach me on</text>
-   </svg>
+   📫 Reach me on
 </h3>
-
-<p align="center">
-
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/ableksaju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="able k saju" height="30" width="40" style="margin-left:20px;" /></a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.instagram.com/code__wizard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="able k saju" height="30" width="40" style="margin-left:40px;" /></a>
-</p>
+<table align="center">
+   <tr>
+      <td align="right" width="60">
+         <a href="https://www.linkedin.com/in/ableksaju/" target="_blank">
+         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+         </a>
+      </td>
+      <td align="left" width="60">
+         <a href="https://www.instagram.com/code__wizard_/" target="_blank">
+         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+         </a>
+      </td>
+   </tr>
+</table>
